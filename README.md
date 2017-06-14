@@ -4,7 +4,7 @@
 
 My name is Faraz, and I use github as a repository to store all my coding projects. This is my Personal website I use to market my self as a programmer and a software developer. 
 
-I am a Fitness Enthusist, Entrepuner, Blogger, You-Tuber, Programmer, Author, Educator, and a Civil Rights Adcovate and a Technologist. 
+I am a Fitness Enthusist, Entrepuner, Blogger, You-Tuber, Programmer, Author, Educator, a Civil Rights Adcovate and a Technologist. 
 You can follow me on some of my other social media websites To know better about myself. Or you can google my Full name, "Mudassir Faraz Sharif" if your in the same country you might find me. Happy surfing. 
 
 ### What I do..
