@@ -18,18 +18,18 @@ I use Technology to Market myself and help others to do the same. Programming is
 Syntax highlighted code block
 
 # Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+ __      __       .__                               
+/  \    /  \ ____ |  |   ____  ____   _____   ____  
+\   \/\/   // __ \|  | _/ ___\/  _ \ /     \_/ __ \ 
+ \        /\  ___/|  |_\  \__(  <_> )  Y Y  \  ___/ 
+  \__/\  /  \___  >____/\___  >____/|__|_|  /\___  >
+       \/       \/          \/            \/     \/ 
+   _____  ____________________                      
+  /     \ \_   _____/   _____/                      
+ /  \ /  \ |    __) \_____  \                       
+/    Y    \|     \  /        \                      
+\____|__  /\___  / /_______  /                      
+        \/     \/          \/ 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
