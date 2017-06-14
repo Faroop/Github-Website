@@ -1,12 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub WebPage.
 
-You can use the [editor on GitHub](https://github.com/Faroop/Github-Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# About
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Faraz, and I use github as a repository to store all my coding projects. This is my Personal website I use to market my self as a programmer and a software developer. 
 
-### Markdown
+I am a Fitness Enthusist, Entrepuner, Blogger, You-Tuber, Programmer, Author, Educator, and a Civil Rights Adcovate and a Technologist. 
+You can follow me on some of my other social media websites To know better about myself. Or you can google my Full name, "Mudassir Faraz Sharif" if your in the same country you might find me. Happy surfing. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What I do..
+
+I use Technology to Market myself and help others do the same. Programming is one of my core skills along with a vast amout of knowledge about technology. I Originally have an IT background and am self learned. 
+
+
+
 
 ```markdown
 Syntax highlighted code block
