@@ -9,7 +9,7 @@ You can follow me on some of my other social media websites To know better about
 
 ### What I do..
 
-I use Technology to Market myself and help others do the same. Programming is one of my core skills along with a vast amout of knowledge about technology. I Originally have an IT background and am self learned. 
+I use Technology to Market myself and help others to do the same. Programming is one of my core skills along with a vast number of other things, from writing blogs, business manefisto's or plans, Financal spreadsheets and powerpoints for business development and marketing purposes I have acquired knowledge throughtout my Life from either real life experiences or reading novels and other scripts on the web. I am self taught and hope that continues to happen throught out my life.  
 
 
 
