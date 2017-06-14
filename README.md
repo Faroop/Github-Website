@@ -12,12 +12,9 @@ You can follow me on some of my other social media websites To know better about
 I use Technology to Market myself and help others to do the same. Programming is one of my core skills along with a vast number of other things, from writing blogs, business manefisto's or plans, Financal spreadsheets and powerpoints for business development and marketing purposes I have acquired knowledge throughtout my Life from either real life experiences or reading novels and other scripts on the web. I am self taught and hope that continues to happen throught out my life.  
 
 
-
-
 ```markdown
-Syntax highlighted code block
+## Syntax highlighted code block
 
-# Header 1
    _____  .__  .__                                       
   /  _  \ |  | |  |                                      
  /  /_\  \|  | |  |                                      
@@ -38,11 +35,18 @@ _________            .___
         \/            \/    \/ 
 ```
 
+### Contact 
+
+email: msharif42@gmail.com
+phone# : 773-563-2746
+Website:https://sites.google.com/view/mudassirfsharif 
+Location: Chicago, IL
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Faroop/Github-Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This Page site uses layout and styles from the Jekyll theme selected in [repository settings](https://github.com/Faroop/Github-Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
